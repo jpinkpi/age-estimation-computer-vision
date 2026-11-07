@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
+.env.*
+
+# Modelos entrenados
+models/*.h5
+models/*.keras
+models/*.pt
+models/*.pth
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
